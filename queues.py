@@ -3,6 +3,7 @@
 # Demonstrates FIFO (First In, First Out) data structure
 
 # 1. Using list - Inefficient (O(n) for dequeue)
+
 q = []
 q.append('a')
 q.append('b')
